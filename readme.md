@@ -41,8 +41,13 @@
   - [ ] Algo Expert Lists videos
   - [ ] Easy Problem Lists DS&A
   - [ ] Easy Problem Lists DS&A
+  
 - [ ] Chapter 1 Cracking Coding interview
 - [ ] Chapter 2 Cracking Coding interview
+
+- [ ] Project
+  - [ ] Create Front End (React) Pomodoro Timer
+  - [ ] Maintain Technical Journal ()
 
 ## Weeks 3-4 Linked List, Stack, Queue
 - [ ] [AAO MERN Stack](https://open.appacademy.io/learn/full-stack-online/mern-stack-curriculum/online-course-guidelines)
