@@ -47,7 +47,10 @@
 
 - [ ] Project
   - [ ] Create Front End (React) Pomodoro Timer
-  - [ ] Maintain Technical Journal ()
+  - [ ] create test specs with ([mocha/chai](https://open.appacademy.io/learn/js-py---pt-jan-2022-online/week-8---context-and-tdd/unit-testing-w--mocha-and-chai))
+  - [ ] Maintain Technical Journal ([example](https://github.com/doctorderek/phonebook-filter-by-age))
+  - [ ] Build out a nice ReadMe ([example](https://github.com/doctorderek/phonebook-filter-by-age))
+  - [ ] Add Wiki Pages for current and future features
 
 ## Weeks 3-4 Linked List, Stack, Queue
 - [ ] [AAO MERN Stack](https://open.appacademy.io/learn/full-stack-online/mern-stack-curriculum/online-course-guidelines)
@@ -63,6 +66,13 @@
 - [ ] [Why you should avoid LL](https://www.youtube.com/watch?v=YQs6IC-vgmo)
 - [ ] Chapter 3 Cracking Coding interview
 - [ ] Chapter 4 Cracking Coding interview
+
+- [ ] Project
+    - [ ] Create a backend for Ponodoro Timer
+    - [ ] Add simplified user Auth
+    - [ ] MongoDB database
+    - [ ] Allow custom timers 
+    - [ ] Maintain the Technical Journal
 
 ## Weeks 5-6 Hash Table, Binary Search
 - [ ] [AAO Docker](https://open.appacademy.io/learn/full-stack-online/docker-curriculum/docker-course-overview)
@@ -94,6 +104,12 @@
 - [ ] Chapter 5 Cracking Coding interview
 - [ ] Chapter 6 Cracking Coding interview
 
+- [ ] Project
+  - [ ] Refine Frontend/Backend for Pomodoro
+  - [ ] Deploy the Pomodoro app
+  - [ ] Add to GitHub profile
+  - [ ] Add to LinkedIn and make a post showcasing the project, tag Dr. Derek Austin
+
 ## Weeks 7-8 Trees, Binary Search Trees
 - [ ] [Intro to Trees](https://www.coursera.org/lecture/data-structures/trees-95qda)
 - [ ] [Tree Traversal](https://www.coursera.org/lecture/data-structures/tree-traversal-fr51b)
@@ -124,6 +140,17 @@
 
 - [ ] Chapter 7 Cracking Coding interview
 - [ ] Chapter 8 Cracking Coding interview
+
+- [ ] Project
+    - [ ] [PokeDex](https://github.com/DoctorDerek/pokedex)
+    - [ ] Set up the express backend with mongoDB
+    - [ ] Create Postman Test Collection
+    - [ ] Create tests (mocha/alternative)
+    - [ ] Use Pagination 
+    - [ ] MongoDb will store all Poke information
+    - [ ] two routes /pokemon and /pokemon/:id
+    - [ ] seed database
+    - [ ] pass postman tests
 
 ## Weeks 9-10 Heap, Sorting
 - [ ] [AAO Heaps](https://open.appacademy.io/learn/full-stack-online/data-structures-and-algorithms/heaps-notes)
@@ -157,6 +184,13 @@
 
 - [ ] Chapter 9 Cracking Coding interview
 - [ ] Chapter 10 Cracking Coding interview
+
+- [ ] Project
+    - [ ] [PokeDex](https://github.com/DoctorDerek/pokedex) Frontend React Set up
+    - [ ] create test specs with ([mocha/chai](https://open.appacademy.io/learn/js-py---pt-jan-2022-online/week-8---context-and-tdd/unit-testing-w--mocha-and-chai))
+    - [ ] Style up the app with good CSS
+    - [ ] set different modes (dark/light)
+    - [ ] Look for additional Features time permitting :) 
 
 ## Weeks 11-12 Graphs
 - [ ] [AAO Graphs](https://open.appacademy.io/learn/full-stack-online/data-structures-and-algorithms/graph-notes)
@@ -196,6 +230,12 @@
 - [ ] Chapter 11 Cracking Coding interview
 - [ ] Chapter 12 Cracking Coding interview
 
+- [ ] Project
+  - [ ] Refine Frontend/Backend for Pokedex
+  - [ ] Deploy the Pokedex app
+  - [ ] Add to GitHub profile
+  - [ ] Add to LinkedIn and make a post showcasing the project, tag Dr. Derek Austin
+
 ## Weeks 13-14 Recursion Refresh, Dynamic Programming
 - [ ] [AAO Recursion](https://open.appacademy.io/learn/full-stack-online/data-structures-and-algorithms/course-installations)
 - [ ] [AAO Dynamic Memorization](https://open.appacademy.io/learn/full-stack-online/data-structures-and-algorithms/memoization-notes)
@@ -210,6 +250,14 @@
 
 - [ ] Chapter 13 Cracking Coding interview
 - [ ] Chapter 14 Cracking Coding interview
+
+- [ ] Contributing to Open Source
+  - [ ] [Start Here](https://github.com/firstcontributions/first-contributions)
+  - [ ] [NOOB Open Source Contributer](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+  - [ ] [How to Get Started (Video)](https://www.youtube.com/watch?v=uQLNFRviB6Q&ab_channel=ZeroToMastery)
+  - [ ] [IN Depth](https://www.youtube.com/watch?v=yzeVMecydCE&ab_channel=freeCodeCamp.org)
+  - [ ] [Advanced Search](https://www.youtube.com/watch?v=L1X5f2ZxN0E&ab_channel=EddieJaoude)
+  - [ ] make sure open source project is in you chosen tech stack (need at least 5 - 10 contributions)
 
 ## Weeks 15-16 Design Patterns
 - [ ] [Quick UML Review](https://www.youtube.com/watch?v=3cmzqZzwNDM&list=PLGLfVvz_LVvQ5G-LdJ8RLqe-ndo7QITYc&index=3)
@@ -238,6 +286,12 @@
 - [ ] Chapter 15 Cracking Coding interview
 - [ ] Chapter 16 Cracking Coding interview
 
+- [ ] Real Project or Contribute to Open Source
+  - [ ] think of small local business / church / friends / anyone and build them a site
+  - [ ] the point is to have real clients and work with them to build experience
+  - [ ] make sure that you have written permission to share the code on GitHub signed by owner
+  - [ ] make sure open source project is in you chosen tech stack (need at least 5 - 10 contributions)
+
 ## Weeks 17-18 Caches, Processing, Concurrency, and Threads
 - [ ] LRU Cache
   - [ ] [Magic of LRU Cache](https://www.youtube.com/watch?v=R5ON3iwx78M)
@@ -255,7 +309,14 @@
   - [ ] [Python Concurrency Ground - Up](https://www.youtube.com/watch?v=MCs5OvhV9S4)
   - [ ] [Keynote - David Beazley](https://www.youtube.com/watch?v=ZzfHjytDceU)
   - [ ] [Mutex Python](https://www.youtube.com/watch?v=0zaPs8OtyKY)
+
 - [ ] Chapter 17 Cracking Coding interview
+
+- [ ] Real Project or Contribute to Open Source
+  - [ ] think of small local business / church / friends / anyone and build them a site
+  - [ ] the point is to have real clients and work with them to build experience
+  - [ ] make sure that you have written permission to share the code on GitHub signed by owner
+  - [ ] make sure open source project is in you chosen tech stack (need at least 5 - 10 contributions)
 
 ## Weeks 19-20 Testing, Unicode, Tries, Networking
 - [ ] [Stanford Real World Use Case](https://www.youtube.com/watch?v=TJ8SkcUSdbU)
@@ -275,6 +336,13 @@
 - [ ] [Big and Little Endian](https://web.archive.org/web/20180107141940/http://www.cs.umd.edu:80/class/sum2003/cmsc311/Notes/Data/endian.html)
 - [ ] [Big vs Little Endian](https://www.youtube.com/watch?v=JrNF0KRAlyo)
 - [ ] [Big and Little Endian Inside/Out](https://www.youtube.com/watch?v=oBSuXP-1Tc0)
+
+
+- [ ] Real Project or Contribute to Open Source
+  - [ ] think of small local business / church / friends / anyone and build them a site
+  - [ ] the point is to have real clients and work with them to build experience
+  - [ ] make sure that you have written permission to share the code on GitHub signed by owner
+  - [ ] make sure open source project is in you chosen tech stack (need at least 5 - 10 contributions)
 
 ## Weeks 21-22 Networking / Final Review
 - [ ] [Khan Academy](https://www.khanacademy.org/computing/code-org/computers-and-the-internet)
@@ -296,6 +364,12 @@
 - [ ] [Review: Algos 2](https://www.coursera.org/learn/algorithms-part2)
 - [ ] [Grokking Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
 - [ ] [Python Paid Course](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/)
+
+- [ ] Real Project or Contribute to Open Source
+  - [ ] think of small local business / church / friends / anyone and build them a site
+  - [ ] the point is to have real clients and work with them to build experience
+  - [ ] make sure that you have written permission to share the code on GitHub signed by owner
+  - [ ] make sure open source project is in you chosen tech stack (need at least 5 - 10 contributions)
 
 ## Weeks 23-24 Interview Process and Interview Prep
 - [Mock Interviews](http://www.gainlo.co/#!/)
