@@ -22,7 +22,7 @@
 - [Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
 
 # The Plan 
-## Weeks 1-2 Basic Python, Big O, Deep Dive Lists, Recursion
+## [Week 1](https://open.appacademy.io/learn/js-py---may-2022-cohort-1-online/week-17---intro-to-python/objectives-for-the-week) Basic Python, Big O, Deep Dive Lists, Recursion
 - [ ] Complete AAO Python W1&2
 
 - [ ] [Harvard Big O](https://www.youtube.com/watch?v=iOq5kSKqeR4)
