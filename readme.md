@@ -1,6 +1,6 @@
 # Study Plan - 24 weeks
 
-## This Study Plan was built in tandem with [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+## This Study Plan was built following [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 ## All weeks require at least 2 DS&A problems to be solved DAILY and pushed up to [DSA](https://github.com/ta-cos/dsa-prac-python) repo
 - Weeks 1-6, 2 easy problems
