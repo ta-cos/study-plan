@@ -27,8 +27,8 @@
 ## Weeks 1-2 Basic Python, Big O, Deep Dive Lists, Recursion
 - [ ] Complete AAO Python [Week 1](https://open.appacademy.io/learn/js-py---may-2022-cohort-1-online/week-17---intro-to-python/objectives-for-the-week)
 
-- [ ] [Harvard Big O](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [ ] [Berkley Big O](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
+- [x] [Harvard Big O](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [x] [Berkley Big O](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
 - [ ] [Top Coder 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
 - [ ] [Top Coder 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
 
