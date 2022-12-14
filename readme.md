@@ -2,28 +2,30 @@
 
 ## This Study Plan was built following [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
-## All weeks require at least 2 DS&A problems to be solved DAILY and pushed up to [DSA](https://github.com/ta-cos/dsa-prac-python) repo
-- Weeks 1-6, 2 easy problems
-- Weeks 7-14, 1 easy 1 medium problem
-- Weeks 15-20, 2 medium problems
-- Weeks 21-24, 1 medium, 1 hard problem
+## All weeks require at least 3 DS&A problems to be solved DAILY and pushed up to [DSA](https://github.com/ta-cos/dsa-prac-python) repo
+- Weeks 1-6, 3 easy problems
+- Weeks 7-14, 2 easy 1 medium problem
+- Weeks 15-20, 1 easy 2 medium problems
+- Weeks 21-24, 2 medium, 1 hard problem
+- Extra time 1 easy, 1 medium, 1 hard problem
 - Problems are to be solved on paper or whiteboard FIRST, sample tests and then coded and pushed to the repo
 
 ## DS&A - options
 - [Whiteboard](https://www.hiredintech.com/algorithm-design/)
 - [Leet Code Solutions](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
-- AlgoExpert :) 
+- [AlgoEpert](https://www.algoexpert.io/product?r=ads&gclid=CjwKCAiAv9ucBhBXEiwA6N8nYOPwROfya9KhSZTPQfnPPqPGN7-4O2_Oja71WB88iNihdezWcnOfdhoCG7kQAvD_BwE) 160 Qs 
+- Cracking the coding interview (version 6) 189 Qs
 
 ## Books:
-- Cracking the coding Interview
+- Cracking the coding Interview (Version 6)
 - [DS&A in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
 
 ## Interview Prep 
 - [Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
 
 # The Plan 
-## [Week 1](https://open.appacademy.io/learn/js-py---may-2022-cohort-1-online/week-17---intro-to-python/objectives-for-the-week) Basic Python, Big O, Deep Dive Lists, Recursion
-- [ ] Complete AAO Python W1&2
+## Weeks 1-2 Basic Python, Big O, Deep Dive Lists, Recursion
+- [ ] Complete AAO Python [Week 1](https://open.appacademy.io/learn/js-py---may-2022-cohort-1-online/week-17---intro-to-python/objectives-for-the-week)
 
 - [ ] [Harvard Big O](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ] [Berkley Big O](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
@@ -38,12 +40,15 @@
 
 - Deep Dive into Python Lists
   - [ ] [Deep Dive 1](https://towardsdatascience.com/everything-you-need-to-know-about-lists-in-python-a503b1461c8f) (Reading)
-  - [ ] Algo Expert Lists videos
-  - [ ] Easy Problem Lists DS&A
-  - [ ] Easy Problem Lists DS&A
+  - [x] Algo Expert Lists videos
+  - [x] Easy Problem Day 1
+  - [x] Easy Problem Day 2
+  - [ ] Easy Problem Day 3
+  - [ ] Easy Problem Day 4
+  - [ ] Easy Problem Day 5
   
-- [ ] Chapter 1 Cracking Coding interview
-- [ ] Chapter 2 Cracking Coding interview
+- [ ] Chapter 1 Cracking Coding interview (Arrays & Strings)
+- [ ] Cracking the Coding Interview Big O
 
 - [ ] Project
   - [ ] Create Front End (React) Pomodoro Timer
@@ -64,8 +69,9 @@
   - [LL vs Array Performance](https://www.coursera.org/lecture/data-structures-optimizing-performance/core-linked-lists-vs-arrays-rjBs9)
   - [In the REAL World](https://www.coursera.org/lecture/data-structures-optimizing-performance/in-the-real-world-lists-vs-arrays-QUaUd)
 - [ ] [Why you should avoid LL](https://www.youtube.com/watch?v=YQs6IC-vgmo)
-- [ ] Chapter 3 Cracking Coding interview
-- [ ] Chapter 4 Cracking Coding interview
+
+- [ ] Chapter 2 Cracking Coding Interview (Linked List)
+- [ ] Chapter 3 Cracking Coding Interview (Stacks, Queues)u
 
 - [ ] Project
     - [ ] Create a backend for Ponodoro Timer
@@ -96,13 +102,10 @@
   - exists(key)
   - get(key)
   - remove(key)
-
-- [ ] Implement:
   - binary search (on sorted array of integers)
   - binary search using recursion
 
-- [ ] Chapter 5 Cracking Coding interview
-- [ ] Chapter 6 Cracking Coding interview
+- [ ] Chapter 1 Cracking Coding interview (Arrays & Strings)
 
 - [ ] Project
   - [ ] Refine Frontend/Backend for Pomodoro
@@ -138,8 +141,7 @@
 - [ ] [Review: DFS Trees](https://youtu.be/Urx87-NMm6c)
 - [ ] [Review: Tree Traversal](https://www.youtube.com/playlist?list=PL9xmBV_5YoZO1JC2RgEi04nLy6D-rKk6b)
 
-- [ ] Chapter 7 Cracking Coding interview
-- [ ] Chapter 8 Cracking Coding interview
+- [ ] Chapter 4 Cracking Coding interview (Trees)
 
 - [ ] Project
     - [ ] [PokeDex](https://github.com/DoctorDerek/pokedex)
@@ -182,8 +184,7 @@
 
 - [ ] [Review Sorting](https://www.youtube.com/playlist?list=PL9xmBV_5YoZOZSbGAXAPIq1BeUf4j20pl)
 
-- [ ] Chapter 9 Cracking Coding interview
-- [ ] Chapter 10 Cracking Coding interview
+- [ ] Chapter 10 Cracking Coding interview (Sorting, Searching)
 
 - [ ] Project
     - [ ] [PokeDex](https://github.com/DoctorDerek/pokedex) Frontend React Set up
@@ -227,8 +228,8 @@
 - [ ] [Review: Shortest Path Algos](https://www.youtube.com/playlist?list=PL9xmBV_5YoZO-Y-H3xIC9DGSfVYJng9Yw)
 - [ ] [Review: Min Spanning Trees](https://www.youtube.com/playlist?list=PL9xmBV_5YoZObEi3Hf6lmyW-CBfs7nkOV)
 
-- [ ] Chapter 11 Cracking Coding interview
-- [ ] Chapter 12 Cracking Coding interview
+- [ ] Chapter 4 Cracking Coding interview (Trees & Graphs)
+- [ ] Introduction XI Cracking the Coding Interview (Advanced Topics)
 
 - [ ] Project
   - [ ] Refine Frontend/Backend for Pokedex
@@ -248,8 +249,7 @@
 - [ ] [Yale - DP](http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#dynamicProgramming)
 - [ ] [DP Problems](https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr)
 
-- [ ] Chapter 13 Cracking Coding interview
-- [ ] Chapter 14 Cracking Coding interview
+- [ ] Chapter 8 Cracking Coding interview (Recursion, Dynamic Programming)
 
 - [ ] Contributing to Open Source
   - [ ] [Start Here](https://github.com/firstcontributions/first-contributions)
@@ -283,8 +283,7 @@
 - [ ] Book: [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Freeman/dp/0596007124)
 - [ ] Reference 101 Design Patterns
 
-- [ ] Chapter 15 Cracking Coding interview
-- [ ] Chapter 16 Cracking Coding interview
+- [ ] Chapter 9 Cracking Coding interview (System Design, Scalability)
 
 - [ ] Real Project or Contribute to Open Source
   - [ ] think of small local business / church / friends / anyone and build them a site
@@ -310,7 +309,7 @@
   - [ ] [Keynote - David Beazley](https://www.youtube.com/watch?v=ZzfHjytDceU)
   - [ ] [Mutex Python](https://www.youtube.com/watch?v=0zaPs8OtyKY)
 
-- [ ] Chapter 17 Cracking Coding interview
+- [ ] Chapter 15 Cracking Coding interview (Threads, Locks)
 
 - [ ] Real Project or Contribute to Open Source
   - [ ] think of small local business / church / friends / anyone and build them a site
@@ -337,6 +336,7 @@
 - [ ] [Big vs Little Endian](https://www.youtube.com/watch?v=JrNF0KRAlyo)
 - [ ] [Big and Little Endian Inside/Out](https://www.youtube.com/watch?v=oBSuXP-1Tc0)
 
+- [ ] Chapter 11 Cracking the Coding Interview (Testing)
 
 - [ ] Real Project or Contribute to Open Source
   - [ ] think of small local business / church / friends / anyone and build them a site
@@ -364,6 +364,8 @@
 - [ ] [Review: Algos 2](https://www.coursera.org/learn/algorithms-part2)
 - [ ] [Grokking Behavioral Interview](https://www.educative.io/courses/grokking-the-behavioral-interview)
 - [ ] [Python Paid Course](https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/)
+
+- [ ] Complete review of Cracking the Coding interview
 
 - [ ] Real Project or Contribute to Open Source
   - [ ] think of small local business / church / friends / anyone and build them a site
