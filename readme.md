@@ -24,8 +24,10 @@
 - [Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
 
 # The Plan 
-## Weeks 1-2 Basic Python, Big O, Deep Dive Lists, Recursion
+## Weeks 1 Basic Python, Big O, Deep Dive Lists, Recursion
 - [ ] Complete AAO Python [Week 1](https://open.appacademy.io/learn/js-py---may-2022-cohort-1-online/week-17---intro-to-python/objectives-for-the-week)
+- [ ] [AAO MERN Stack](https://open.appacademy.io/learn/full-stack-online/mern-stack-curriculum/online-course-guidelines)
+
 
 - [x] [Harvard Big O](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [x] [Berkley Big O](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
@@ -58,7 +60,6 @@
   - [ ] Add Wiki Pages for current and future features
 
 ## Weeks 3-4 Linked List, Stack, Queue
-- [ ] [AAO MERN Stack](https://open.appacademy.io/learn/full-stack-online/mern-stack-curriculum/online-course-guidelines)
 - [ ] [AAO Linked List](https://open.appacademy.io/learn/full-stack-online/data-structures-and-algorithms/linked-list-notes)
 - [ ] [AAO Stack & Queue](https://open.appacademy.io/learn/full-stack-online/data-structures-and-algorithms/stacks-and-queues-notes)
 - [ ] [Single Linked List](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
