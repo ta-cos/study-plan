@@ -25,7 +25,7 @@
 
 # The Plan 
 ## Weeks 1 Basic Python, Big O, Deep Dive Lists, Recursion
-- [ ] Complete AAO Python [Week 1](https://open.appacademy.io/learn/js-py---may-2022-cohort-1-online/week-17---intro-to-python/objectives-for-the-week)
+- [x] Complete AAO Python [Week 1](https://open.appacademy.io/learn/js-py---may-2022-cohort-1-online/week-17---intro-to-python/objectives-for-the-week)
 - [ ] [AAO MERN Stack](https://open.appacademy.io/learn/full-stack-online/mern-stack-curriculum/online-course-guidelines)
 
 
