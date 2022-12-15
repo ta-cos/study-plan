@@ -1,4 +1,4 @@
-# Study Plan - 24 weeks
+# Study Plan - 24 weeks (go at your own pace)
 
 ## This Study Plan was built following [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
@@ -12,25 +12,35 @@
 
 ## DS&A - options
 - [Whiteboard](https://www.hiredintech.com/algorithm-design/)
+- [Leet Code](https://leetcode.com/)
 - [Leet Code Solutions](https://www.youtube.com/playlist?list=PLU_sdQYzUj2keVENTP0a5rdykRSgg9Wp-)
-- [AlgoEpert](https://www.algoexpert.io/product?r=ads&gclid=CjwKCAiAv9ucBhBXEiwA6N8nYOPwROfya9KhSZTPQfnPPqPGN7-4O2_Oja71WB88iNihdezWcnOfdhoCG7kQAvD_BwE) 160 Qs 
-- Cracking the coding interview (version 6) 189 Qs
+- [AlgoEpert](https://www.algoexpert.io/product?r=ads&gclid=CjwKCAiAv9ucBhBXEiwA6N8nYOPwROfya9KhSZTPQfnPPqPGN7-4O2_Oja71WB88iNihdezWcnOfdhoCG7kQAvD_BwE)
+- [Grokking](- [Grokking](https://designgurus.org/course/grokking-the-coding-interview))
+- Cracking the coding interview (version 6)
+- [Structy (because Alvin)](https://www.structy.net/?utm_term=&utm_campaign=Product&utm_source=adwords&utm_medium=ppc&hsa_acc=8376402703&hsa_cam=16810651197&hsa_grp=137896889037&hsa_ad=604730646898&hsa_src=g&hsa_tgt=dsa-1674376117602&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gclid=Cj0KCQiAqOucBhDrARIsAPCQL1Z2U7JCY6vS1AI3T4zPOBJzur9LbOYiR6tejggErY5StCZf72Mrc0waAqZLEALw_wcB)
+
+
+## SRE Course
+- [Google SRE](https://www.coursera.org/learn/site-reliability-engineering-slos/lecture/DwUts/course-structure)
 
 ## Books:
 - Cracking the coding Interview (Version 6)
 - [DS&A in Python](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275/)
+- [SRE: How Google Does It](https://www.amazon.com/Site-Reliability-Engineering-Production-Systems/dp/B08VKWBJFS/ref=sr_1_3?crid=3B5WZF64PG1BX&keywords=Sre+google&qid=1671059745&sprefix=sre%2520google%2Caps%2C93&sr=8-3)
+- [The SRE Workbook](https://www.amazon.com/Site-Reliability-Workbook-Practical-Implement/dp/1492029505/ref=sr_1_1?crid=1O8FGGG2EC0GK&keywords=the+site+reliability+workbook&qid=1671059859&sprefix=the+site+reliability+workbook%2Caps%2C100&sr=8-1)
+- [Seeking SRE](https://www.amazon.com/Seeking-SRE-Conversations-Running-Production/dp/1491978864/ref=sr_1_1?crid=1AJLO90FWWRJA&keywords=seeking+sre&qid=1671059887&sprefix=seeking+sre%2Caps%2C110&sr=8-1)
 
 ## Interview Prep 
 - [Interviews in Python](https://www.amazon.com/Elements-Programming-Interviews-Python-Insiders/dp/1537713949/)
 
 # The Plan 
-## Weeks 1 Basic Python, Big O, Deep Dive Lists, Recursion
-- [x] Complete AAO Python [Week 1](https://open.appacademy.io/learn/js-py---may-2022-cohort-1-online/week-17---intro-to-python/objectives-for-the-week)
+## Weeks 1-2 Basic Python, Big O, Deep Dive Lists, Recursion, MERN Stack
+- [ ] Complete AAO Python [Week 1](https://open.appacademy.io/learn/js-py---may-2022-cohort-1-online/week-17---intro-to-python/objectives-for-the-week)
 - [ ] [AAO MERN Stack](https://open.appacademy.io/learn/full-stack-online/mern-stack-curriculum/online-course-guidelines)
 
 
-- [x] [Harvard Big O](https://www.youtube.com/watch?v=iOq5kSKqeR4)
-- [x] [Berkley Big O](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
+- [ ] [Harvard Big O](https://www.youtube.com/watch?v=iOq5kSKqeR4)
+- [ ] [Berkley Big O](https://archive.org/details/ucberkeley_webcast_VIS4YDpuP98)
 - [ ] [Top Coder 1](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20one)
 - [ ] [Top Coder 2](https://www.topcoder.com/thrive/articles/Computational%20Complexity%20part%20two)
 
@@ -60,6 +70,7 @@
   - [ ] Add Wiki Pages for current and future features
 
 ## Weeks 3-4 Linked List, Stack, Queue
+- [ ] [AAO MERN Stack Again :) ](https://open.appacademy.io/learn/full-stack-online/mern-stack-curriculum/online-course-guidelines)
 - [ ] [AAO Linked List](https://open.appacademy.io/learn/full-stack-online/data-structures-and-algorithms/linked-list-notes)
 - [ ] [AAO Stack & Queue](https://open.appacademy.io/learn/full-stack-online/data-structures-and-algorithms/stacks-and-queues-notes)
 - [ ] [Single Linked List](https://www.coursera.org/lecture/data-structures/singly-linked-lists-kHhgK)
